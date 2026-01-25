@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ahmet ALTINEL 👋
 
-<!--
-**Evlacy/Evlacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Engineer Apprentice @ EDF 
+I am currently working at **EDF (Électricité de France)** while completing my Engineering Degree in Data & Artificial Intelligence. I am passionate about building data pipelines, optimizing decision-making through data, and exploring the latest advancements in AI.
 
-Here are some ideas to get you started:
+**🎯 Seeking a Full-Time (CDI) position starting September 2026.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+- **Engineering Degree in Computer Science & Networks** | **CPE Lyon** (2023 – 2026)
+- **DUT in Computer Science (Technical Degree)** | **IUT Annecy** (2021 – 2023)
+  - Specializing in data administration, management, and analysis.
+
+---
+
+## 🔗 Connect with me
+- 🌍 [My Portfolio](https://evlacy.github.io) - 💼 [LinkedIn Profile](https://www.linkedin.com/in/ahmetaltinel/) - ✉️ [Email Me](mailto:altinel.ah@gmail.com)
