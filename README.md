@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmet ALTINEL 👋
 
-### 🚀 Data Engineer Apprentice @ EDF 
+### 🚀 Data Engineer @ EDF (Work-Study) 
 I am currently working at **EDF (Électricité de France)** while completing my Engineering Degree in Data & Artificial Intelligence. I am passionate about building data pipelines, optimizing decision-making through data, and exploring the latest advancements in AI.
 
 **🎯 I am seeking a Full-Time (CDI) position starting September 2026.**
